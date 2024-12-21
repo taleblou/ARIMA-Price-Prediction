@@ -75,7 +75,7 @@ The experiences of these codes and the initial models you see have been used on 
 
 ### [**Predict Price**](https://predict-price.com/)
 
-Free AI-powered short-term (5/10/30 days) & long-term (6 months/1/2 years) forecasts for cryptocurrencies, stocks, ETFs, currencies, indices, and mutual funds. Predict Price employs a unique Bidirectional LSTM model that analyzes historical data in both forward and reverse directions, capturing intricate temporal patterns. This advanced methodology ensures precise and reliable forecasts, setting it apart in the market.
+Free AI-powered short-term (5/10/30 days) & long-term (6 months/1/2 years) forecasts for cryptocurrencies, stocks, ETFs, currencies, indices, and mutual funds. Predict Price employs a unique ARIMA model that analyzes historical data in both forward and reverse directions, capturing intricate temporal patterns. This advanced methodology ensures precise and reliable forecasts, setting it apart in the market.
 
 ### [**Magical Prediction**](https://magicalprediction.com/)
 
@@ -87,7 +87,7 @@ Discover free trading signals powered by expert technical analysis. This platfor
 
 **About This Project**
 
-This Bidirectional LSTM model is an initial implementation, released for public use. The project demonstrates the potential of deep learning models for financial predictions. While this repository focuses on Bidirectional LSTM, I have also utilized other models, the code for which is available on my GitHub.
+This ARIMA model is an initial implementation, released for public use. The project demonstrates the potential of deep learning models for financial predictions. While this repository focuses on ARIMA, I have also utilized other models, the code for which is available on my GitHub.
 
 How to Use
 
